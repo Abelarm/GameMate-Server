@@ -4,8 +4,6 @@
 class DB_Giocatore_Functions{
  
  	private $db;
- 	
- 	 //put your code here
     // constructor
     function __construct() {
         require_once 'DB_Connect.php';
