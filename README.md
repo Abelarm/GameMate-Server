@@ -2,4 +2,4 @@
 
 Back-end in PHP for App GameMate
 
-3rd year of university
+3rd year of bachelor
